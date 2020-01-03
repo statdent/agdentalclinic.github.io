@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+Disallow: /cgi-bin/
 
 Sitemap: https://www.agdental.co.in/sitemap
